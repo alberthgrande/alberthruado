@@ -55,8 +55,8 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alberthruado&show_icons=true&theme=vue&layout=compact" alt="alberthruado" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alberthruado&show_icons=true&theme=radical&layout=compact" alt="alberthruado" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alberthruado&show_icons=true&theme=vue" alt="alberthruado" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alberthruado&show_icons=true&theme=radical" alt="alberthruado" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alberthruado&" alt="alberthruado" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alberthruado&theme=radical)](https://git.io/streak-stats)
