@@ -25,6 +25,8 @@
 <a href="https://instagram.com/alberthgrande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alberthgrande" height="30" width="40" /></a>
 </p>
 
+[![Profile badge](https://www.codewars.com/users/alberthruado/badges/large)](https://www.codewars.com/users/alberthruado)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
