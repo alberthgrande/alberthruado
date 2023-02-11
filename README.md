@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **alberthruado@gmail.com**
 
-- ⚡ Fun fact **I love to learn and to sleep.**
+- ⚡ Fun fact **I love to learn and to rest because it's the most important thing if you're a human.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
