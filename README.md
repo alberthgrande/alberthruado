@@ -54,7 +54,9 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 </a>
-
+  
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alberthruado&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
